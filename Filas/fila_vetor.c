@@ -121,6 +121,7 @@ void menu()
             break;
         case 4:
             printf("Programa encerrado.\n");
+            break;
         default:
             printf("Opcao invalida. Digite outro numero\n");
             break;
